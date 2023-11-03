@@ -1,0 +1,66 @@
+header {
+    width: 100%;
+    height: 7%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky;
+}
+
+.museum {
+    width: 20%;
+    height: 100%;
+}
+
+.recherche {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+p {
+    font-size: 0.8em;
+}
+
+img{
+    padding-top: 2%;
+}
+
+main {
+    width: 100%;
+    height: 80%s;
+}
+
+.dropdownFiche{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.lion{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.L{
+    margin-right: 2%;
+}
+
+.textLion{
+    width: 25%;
+    height: 32vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: beige;
+}
